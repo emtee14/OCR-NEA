@@ -47,7 +47,7 @@ class music_game():
         self.score = 0
         print(figlet_format('Music Game'))
         self.name = input("Your Name - ").title()
-        for i in self.tracks:
+        for i in random.suffle(self.tracks):
             letters = ""
             for x in i[0].split(" "):
                 under = "_"*int(len(x)-1)
