@@ -1,1 +1,1 @@
-![](https://github.com/emtee14/OCR-NEA/tree/master/Music-Game/specs.jpg?raw=true)
+![](https://github.com/emtee14/OCR-NEA/blob/master/Music-Game/specs.jpg?raw=true)
