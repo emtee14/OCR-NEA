@@ -1,1 +1,1 @@
-![Failed to load](https://github.com/emtee14/OCR-NEA/tree/master/Dice-Game/spec.jpg)
+![Failed to load](https://github.com/emtee14/OCR-NEA/tree/master/Dice-Game/specs.jpg)
