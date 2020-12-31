@@ -1,5 +1,5 @@
 # OCR-NEA
-[Spec Sheet](https://www.ocr.org.uk/Images/503195-programming-project-tasks-june-2019-and-june-2020.pdf])
+[Spec Sheet](https://www.ocr.org.uk/Images/503195-programming-project-tasks-june-2019-and-june-2020.pdf)
 ## [Music Game](https://github.com/emtee14/OCR-NEA/tree/master/Music-Game)
 ---
 Noel is creating a music quiz game.
