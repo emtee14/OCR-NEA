@@ -1,0 +1,1 @@
+![Failed to load](https://github.com/emtee14/OCR-NEA/tree/master/Music-Game/spec.jpg)
